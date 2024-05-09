@@ -3,7 +3,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Niklas Schmid</h1>
+<h1 align="center">Hi 👋, I'm Niklas</h1>
 <h3 align="center">A passionate game developer from Germany</h3>
 <br>
 
