@@ -11,7 +11,7 @@
 
 - 🖥 I’m currently working on **FDCore**
 
-- 🧠 I’m currently learning **Windows Forms**
+- 🧠 I’m currently learning **Godot Engine**
 
 - 🤝 I’m looking to collaborate on **Unity Projects**
 
