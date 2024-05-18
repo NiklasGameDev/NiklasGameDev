@@ -1,8 +1,3 @@
-<!--
-
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Niklas</h1>
 <h3 align="center">A passionate game developer from Germany</h3>
 <br>
@@ -35,4 +30,16 @@
 </p>
 
 <!-- TO DO: add more details about me later -->
-<!-- ## About me -->
+## About me
+I'm a C# Developer with 10+ years of experience in developing Unity Games, Engine Tools and Frameworks.
+
+Video Games got me into programming. I love video games because they can teach you a lot while being interactive and entertaining at the same tinme.
+At some point, I was enjoying them for more than what they show you.
+I was wondering how the hell did they do this or that.
+
+<!-- I graduated from SAE Institute Munich where I got my Diploma in Games Programming. After finishing that I extended my degree by Bachelor of Science. -->
+
+
+
+
+
