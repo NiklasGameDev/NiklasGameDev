@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking to collaborate on **Unity Projects**
 
-- 💬 Ask me about **Unity/C#, UIElements**
+- 💬 Ask me about **Unity/C#, UIElements or Tool Development**
 
 - 📫 How to reach me **nschmid.main@gmail.com**
 
@@ -33,11 +33,16 @@
 ## About me
 I'm a C# Developer with 10+ years of experience in developing Unity Games, Engine Tools and Frameworks.
 
-Video Games got me into programming. I love video games because they can teach you a lot while being interactive and entertaining at the same tinme.
+<!-- Video Games got me into programming. I love video games because they can teach you a lot while being interactive and entertaining at the same time.
 At some point, I was enjoying them for more than what they show you.
 I was wondering how the hell did they do this or that.
 
-<!-- I graduated from SAE Institute Munich where I got my Diploma in Games Programming. After finishing that I extended my degree by Bachelor of Science. -->
+<!-- I graduated from SAE Institute Munich where I got my Diploma in Games Programming. Afterwards I extended my degree by Bachelor of Science. -->
+
+<!-- I love talking about and discussing ideas for projects. Problem solving and finding the best (and/or quickest) solution is one of my passions.
+Especially with at least one more person or a full team because you get more than one point of view and can spiral down to the right solution. 
+If you want to discuss anything about your project and want a second opinion, hit me up :) -->
+
 
 
 
