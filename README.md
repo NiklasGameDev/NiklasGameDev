@@ -7,7 +7,7 @@
 &emsp;
 - 🖥 I’m currently working on **FDCore**
 
-- 🧠 I’m currently learning **Godot Engine**
+- 🧠 I’m currently learning **SQLite**
 
 - 🤝 I’m looking to collaborate on **Unity Projects**
 
